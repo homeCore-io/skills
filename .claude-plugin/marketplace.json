@@ -1,0 +1,16 @@
+{
+  "name": "homecore",
+  "owner": {
+    "name": "homeCore"
+  },
+  "metadata": {
+    "description": "Skills for homeCore: setting up a dev environment, installing and configuring homeCore, and writing plugins."
+  },
+  "plugins": [
+    {
+      "name": "homecore",
+      "source": "./",
+      "description": "homeCore skills: dev environment, install and setup, plugin development."
+    }
+  ]
+}
